@@ -3,7 +3,7 @@ chardet==3.0.4
 idna==2.8
 numpy==1.16.4
 ObjectListView==1.3.1
-Pillow==6.0.0
+Pillow==9.0.1
 requests==2.22.0
 six==1.12.0
 urllib3==1.25.3
